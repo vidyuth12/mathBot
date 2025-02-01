@@ -53,9 +53,10 @@ To run this project, you need the following:
 Follow these steps to set up and run the project:
 
 ### 1. Clone the Repository
-```bash
-git clone https://github.com/vidyuth12/mathBot.git
-cd mathBot
+    ```bash
+    git clone https://github.com/vidyuth12/mathBot.git
+    cd mathBot
+    ```
 
 ### 2. Set Up the Environment
 1. **Create a `.env` File**:
@@ -78,9 +79,11 @@ cd mathBot
     - Execute the main script to solve a mathematical problem:
     ```bash
     python main2.py
+    ```
     - Run the test suite to verify all components:
     ```bash
     python test2.py
+    ```
 
 ## Example Problems
 Here are some example problems you can test with MathBot:

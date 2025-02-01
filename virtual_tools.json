@@ -1,0 +1,221 @@
+{
+    "What is the square root of 9?": [
+        {
+            "tool": "PRODUCT",
+            "args": [
+                3,
+                3
+            ]
+        }
+    ],
+    "What is the square root of 16?": [
+        {
+            "tool": "SQRT",
+            "args": [
+                16
+            ]
+        }
+    ],
+    "What is 2 to the power of 2?": [
+        {
+            "tool": "POWER",
+            "args": [
+                2,
+                2
+            ]
+        }
+    ],
+    "What is 2 to the power of 3?": [
+        {
+            "tool": "POWER",
+            "args": [
+                2,
+                3
+            ]
+        }
+    ],
+    "What is the product of 3 and 5?": [
+        {
+            "tool": "PRODUCT",
+            "args": [
+                3,
+                5
+            ]
+        }
+    ],
+    "What is the sum of 5 and 3?": [
+        {
+            "tool": "SUM",
+            "args": [
+                5,
+                3
+            ]
+        }
+    ],
+    "What is the sum of 10 and 20?": [
+        {
+            "tool": "SUM",
+            "args": [
+                10,
+                20
+            ]
+        }
+    ],
+    "What is the sum of 15 and 25?": [
+        {
+            "tool": "SUM",
+            "args": [
+                15,
+                25
+            ]
+        }
+    ],
+    "What is the product of 4 and 6?": [
+        {
+            "tool": "PRODUCT",
+            "args": [
+                4,
+                6
+            ]
+        }
+    ],
+    "What is the product of 7 and 8?": [
+        {
+            "tool": "PRODUCT",
+            "args": [
+                7,
+                8
+            ]
+        }
+    ],
+    "What is 20 divided by 4?": [
+        {
+            "tool": "QUOTIENT",
+            "args": [
+                20,
+                4
+            ]
+        }
+    ],
+    "What is 30 divided by 6?": [
+        {
+            "tool": "QUOTIENT",
+            "args": [
+                30,
+                6
+            ]
+        }
+    ],
+    "What is 100 divided by 25?": [
+        {
+            "tool": "QUOTIENT",
+            "args": [
+                100,
+                25
+            ]
+        }
+    ],
+    "What is 3 to the power of 2?": [
+        {
+            "tool": "POWER",
+            "args": [
+                3,
+                2
+            ]
+        }
+    ],
+    "What is 4 to the power of 2?": [
+        {
+            "tool": "POWER",
+            "args": [
+                4,
+                2
+            ]
+        }
+    ],
+    "What is the square root of 25?": [
+        {
+            "tool": "SQRT",
+            "args": [
+                25
+            ]
+        }
+    ],
+    "What is the square root of 81?": [
+        {
+            "tool": "SQRT",
+            "args": [
+                81
+            ]
+        }
+    ],
+    "What is the product of 999999999 and 999999999?": [
+        {
+            "tool": "PRODUCT",
+            "args": [
+                999999999,
+                999999999
+            ]
+        }
+    ],
+    "What is the remainder when 17 is divided by 5?": [
+        {
+            "tool": "MODULO",
+            "args": [
+                17,
+                5
+            ]
+        }
+    ],
+    "What is the remainder when 23 is divided by 7?": [
+        {
+            "tool": "MODULO",
+            "args": [
+                23,
+                7
+            ]
+        }
+    ],
+    "What is the remainder when 100 is divided by 30?": [
+        {
+            "tool": "MODULO",
+            "args": [
+                100,
+                30
+            ]
+        }
+    ],
+    "What is the absolute value of -15?": [
+        {
+            "tool": "ABS",
+            "args": [
+                -15
+            ]
+        }
+    ],
+    "What is the absolute value of -25?": [
+        {
+            "tool": "ABS",
+            "args": [
+                -25
+            ]
+        }
+    ],
+    "What is the absolute value of -30?": [
+        {
+            "tool": "ABS",
+            "args": [
+                -30
+            ]
+        }
+    ],
+    "What is the sum of 100 and 200?": [
+        {
+            "tool": "SUM",
+            "args": [
+                100,
+                200
+            ]
+        }
+    ]
+}

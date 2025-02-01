@@ -1,0 +1,165 @@
+2025-01-31 17:56:15,517 - INFO - 
+==================================================
+Starting new test
+==================================================
+2025-01-31 17:56:15,518 - INFO - 
+Testing SUM operations:
+2025-01-31 17:56:15,518 - INFO - 
+Testing: What is the sum of 5 and 3?
+2025-01-31 17:56:15,519 - INFO - Operation SUM called 1 times
+2025-01-31 17:56:15,519 - INFO - Result: {'result': 8}
+2025-01-31 17:56:15,521 - INFO - 
+Testing: What is the sum of 10 and 20?
+2025-01-31 17:56:15,521 - INFO - Operation SUM called 2 times
+2025-01-31 17:56:15,521 - INFO - Result: {'result': 30}
+2025-01-31 17:56:15,522 - INFO - 
+Testing: What is the sum of 15 and 25?
+2025-01-31 17:56:15,522 - INFO - Operation SUM called 3 times
+2025-01-31 17:56:15,523 - INFO - Result: {'result': 40}
+2025-01-31 17:56:15,524 - INFO - 
+Testing PRODUCT operations:
+2025-01-31 17:56:15,524 - INFO - 
+Testing: What is the product of 4 and 6?
+2025-01-31 17:56:15,524 - INFO - Operation PRODUCT called 1 times
+2025-01-31 17:56:15,524 - INFO - Result: {'result': 24}
+2025-01-31 17:56:15,525 - INFO - 
+Testing: What is the product of 3 and 5?
+2025-01-31 17:56:15,525 - INFO - Operation PRODUCT called 2 times
+2025-01-31 17:56:15,525 - INFO - Result: {'result': 15}
+2025-01-31 17:56:15,527 - INFO - 
+Testing: What is the product of 7 and 8?
+2025-01-31 17:56:15,527 - INFO - Operation PRODUCT called 3 times
+2025-01-31 17:56:15,528 - INFO - Result: {'result': 56}
+2025-01-31 17:56:15,528 - INFO - 
+Testing QUOTIENT operations:
+2025-01-31 17:56:15,529 - INFO - 
+Testing: What is 20 divided by 4?
+2025-01-31 17:56:15,529 - INFO - Operation QUOTIENT called 1 times
+2025-01-31 17:56:15,530 - INFO - Result: {'result': 5.0}
+2025-01-31 17:56:15,530 - INFO - 
+Testing: What is 30 divided by 6?
+2025-01-31 17:56:15,530 - INFO - Operation QUOTIENT called 2 times
+2025-01-31 17:56:15,531 - INFO - Result: {'result': 5.0}
+2025-01-31 17:56:15,531 - INFO - 
+Testing: What is 100 divided by 25?
+2025-01-31 17:56:15,531 - INFO - Operation QUOTIENT called 3 times
+2025-01-31 17:56:15,531 - INFO - Result: {'result': 4.0}
+2025-01-31 17:56:15,532 - INFO - 
+Testing POWER operations:
+2025-01-31 17:56:15,532 - INFO - 
+Testing: What is 2 to the power of 3?
+2025-01-31 17:56:15,532 - INFO - Operation POWER called 1 times
+2025-01-31 17:56:15,533 - INFO - Result: {'result': 8}
+2025-01-31 17:56:15,533 - INFO - 
+Testing: What is 3 to the power of 2?
+2025-01-31 17:56:15,534 - INFO - Operation POWER called 2 times
+2025-01-31 17:56:15,534 - INFO - Result: {'result': 9}
+2025-01-31 17:56:15,534 - INFO - 
+Testing: What is 4 to the power of 2?
+2025-01-31 17:56:15,535 - INFO - Operation POWER called 3 times
+2025-01-31 17:56:15,535 - INFO - Result: {'result': 16}
+2025-01-31 17:56:15,535 - INFO - 
+Testing SQRT operations:
+2025-01-31 17:56:15,537 - INFO - 
+Testing: What is the square root of 16?
+2025-01-31 17:56:15,537 - INFO - Operation SQRT called 1 times
+2025-01-31 17:56:15,538 - INFO - Result: {'result': 4.0}
+2025-01-31 17:56:15,538 - INFO - 
+Testing: What is the square root of 25?
+2025-01-31 17:56:15,539 - INFO - Operation SQRT called 2 times
+2025-01-31 17:56:15,539 - INFO - Result: {'result': 5.0}
+2025-01-31 17:56:15,539 - INFO - 
+Testing: What is the square root of 81?
+2025-01-31 17:56:15,541 - INFO - Operation SQRT called 3 times
+2025-01-31 17:56:15,541 - INFO - Result: {'result': 9.0}
+2025-01-31 17:56:15,541 - INFO - 
+Testing MODULO operations:
+2025-01-31 17:56:15,542 - INFO - 
+Testing: What is the remainder when 17 is divided by 5?
+2025-01-31 17:56:15,542 - INFO - Operation MODULO called 1 times
+2025-01-31 17:56:15,542 - INFO - Result: {'result': 2}
+2025-01-31 17:56:15,543 - INFO - 
+Testing: What is the remainder when 23 is divided by 7?
+2025-01-31 17:56:15,543 - INFO - Operation MODULO called 2 times
+2025-01-31 17:56:15,544 - INFO - Result: {'result': 2}
+2025-01-31 17:56:15,544 - INFO - 
+Testing: What is the remainder when 100 is divided by 30?
+2025-01-31 17:56:15,545 - INFO - Operation MODULO called 3 times
+2025-01-31 17:56:15,546 - INFO - Result: {'result': 10}
+2025-01-31 17:56:15,548 - INFO - 
+Testing ABS operations:
+2025-01-31 17:56:15,549 - INFO - 
+Testing: What is the absolute value of -15?
+2025-01-31 17:56:15,550 - INFO - Operation ABS called 1 times
+2025-01-31 17:56:15,550 - INFO - Result: {'result': 15}
+2025-01-31 17:56:15,550 - INFO - 
+Testing: What is the absolute value of -25?
+2025-01-31 17:56:15,552 - INFO - Operation ABS called 2 times
+2025-01-31 17:56:15,553 - INFO - Result: {'result': 25}
+2025-01-31 17:56:15,553 - INFO - 
+Testing: What is the absolute value of -30?
+2025-01-31 17:56:15,554 - INFO - Operation ABS called 3 times
+2025-01-31 17:56:15,554 - INFO - Result: {'result': 30}
+2025-01-31 17:56:15,554 - INFO - 
+Test completed
+2025-01-31 17:56:15,555 - INFO - 
+==================================================
+Starting new test
+==================================================
+2025-01-31 17:56:15,558 - INFO - 
+Test completed
+2025-01-31 17:56:15,559 - INFO - 
+==================================================
+Starting new test
+==================================================
+2025-01-31 17:56:15,559 - INFO - 
+Testing caching behavior...
+2025-01-31 17:56:15,559 - INFO - 
+Testing cache for: What is the sum of 5 and 3?
+2025-01-31 17:56:15,561 - INFO - Problem initially in cache: True
+2025-01-31 17:56:15,561 - INFO - Executing first time...
+2025-01-31 17:56:15,561 - INFO - Executing second time (should use cache)...
+2025-01-31 17:56:15,562 - INFO - 
+Testing cache for: What is the product of 4 and 6?
+2025-01-31 17:56:15,563 - INFO - Problem initially in cache: True
+2025-01-31 17:56:15,564 - INFO - Executing first time...
+2025-01-31 17:56:15,564 - INFO - Executing second time (should use cache)...
+2025-01-31 17:56:15,566 - INFO - 
+Testing cache for: What is the square root of 16?
+2025-01-31 17:56:15,566 - INFO - Problem initially in cache: True
+2025-01-31 17:56:15,566 - INFO - Executing first time...
+2025-01-31 17:56:15,567 - INFO - Executing second time (should use cache)...
+2025-01-31 17:56:15,568 - INFO - 
+Test completed
+2025-01-31 17:56:15,568 - INFO - 
+==================================================
+Starting new test
+==================================================
+2025-01-31 17:56:15,569 - INFO - 
+Testing error case: What is 10 divided by 0?
+2025-01-31 17:56:17,084 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-31 17:56:19,044 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-31 17:56:19,047 - INFO - Error handled correctly for: What is 10 divided by 0?
+2025-01-31 17:56:19,047 - INFO - 
+Testing error case: What is the square root of -16?
+2025-01-31 17:56:19,557 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-31 17:56:20,785 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-31 17:56:20,787 - INFO - Error handled correctly for: What is the square root of -16?
+2025-01-31 17:56:20,787 - INFO - 
+Testing error case: What is the product of 999999999999 and 999999999999?
+2025-01-31 17:56:21,213 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-31 17:56:21,215 - INFO - Error handled correctly for: What is the product of 999999999999 and 999999999999?
+2025-01-31 17:56:21,215 - INFO - 
+Test completed
+2025-01-31 17:56:21,216 - INFO - 
+==================================================
+Test Suite Summary
+==================================================
+2025-01-31 17:56:21,216 - INFO - Operation counts:
+2025-01-31 17:56:21,216 - INFO - SUM: 3 times
+2025-01-31 17:56:21,216 - INFO - PRODUCT: 3 times
+2025-01-31 17:56:21,217 - INFO - QUOTIENT: 3 times
+2025-01-31 17:56:21,217 - INFO - POWER: 3 times
+2025-01-31 17:56:21,217 - INFO - SQRT: 3 times
+2025-01-31 17:56:21,217 - INFO - MODULO: 3 times
+2025-01-31 17:56:21,217 - INFO - ABS: 3 times

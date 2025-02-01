@@ -104,3 +104,9 @@ Solve a problem twice to see the cache in action:
 system = MultiAgentSystem()
 print(system.solve("What is the sum of 100 and 200?", 300))  # First execution
 print(system.solve("What is the sum of 100 and 200?", 300))  # Second execution (uses cache)
+```
+
+## Future work
+ - Implement toolbox in a non-pythonic and faster language ( Currently working on C++ ).
+ - This implementation only solve very simple math problems, implement some complex math problems. For example, we can integrate this to an autograd engine.
+ - Integrate with symbolic python libraries ( like symbolica ) to handle symbolic math.

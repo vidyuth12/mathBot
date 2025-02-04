@@ -1,5 +1,5 @@
 # MathBot: A Multi-Agent System for Mathematical Problem Solving
-
+Task for Spindle AI - AI Engineer role
 ## Overview
 MathBot is a multi-agent system designed to solve mathematical problems using a combination of AI planning, execution, and validation. The system leverages a toolbox of mathematical operations, a virtual tool cache for storing successful solutions, and error correction mechanisms to handle unexpected failures. The project is implemented in Python and uses OpenAI's GPT models for planning and error correction.
 
